@@ -1,0 +1,22 @@
+*{
+    color: blue;
+}
+
+div{
+    background-color:orange
+}
+
+a{
+    font: 100;
+    font-style: italic;
+    font-display: 100;
+    font-family: monospace;
+    color: orangered;
+}
+
+body{
+    background-color: blueviolet
+}
+
+
+
